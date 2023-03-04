@@ -1,0 +1,15 @@
+{
+	"category" : "MoneyfyCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attributeName",
+		"smalltalkClass" ],
+	"name" : "MoneyfyAttribute",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

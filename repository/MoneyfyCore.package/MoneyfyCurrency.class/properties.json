@@ -1,0 +1,15 @@
+{
+	"category" : "MoneyfyCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currencyName",
+		"currencySymbol" ],
+	"name" : "MoneyfyCurrency",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

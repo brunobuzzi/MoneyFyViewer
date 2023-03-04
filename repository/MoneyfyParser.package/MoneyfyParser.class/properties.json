@@ -1,0 +1,16 @@
+{
+	"category" : "MoneyfyParser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"originalString",
+		"attributes",
+		"moneyfyLines" ],
+	"name" : "MoneyfyParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

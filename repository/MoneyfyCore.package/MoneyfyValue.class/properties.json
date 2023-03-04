@@ -1,0 +1,15 @@
+{
+	"category" : "MoneyfyCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attribute",
+		"value" ],
+	"name" : "MoneyfyValue",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
