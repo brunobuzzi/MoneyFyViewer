@@ -8,7 +8,8 @@
 	"instvars" : [
 		"originalString",
 		"attributes",
-		"moneyfyLines" ],
+		"moneyfyLines",
+		"convertedValues" ],
 	"name" : "MoneyfyParser",
 	"pools" : [
 		 ],

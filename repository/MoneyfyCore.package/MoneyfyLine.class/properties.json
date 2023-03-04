@@ -6,10 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"attributeName",
-		"smalltalkClass",
-		"index" ],
-	"name" : "MoneyfyAttribute",
+		"values" ],
+	"name" : "MoneyfyLine",
 	"pools" : [
 		 ],
 	"super" : "Object",

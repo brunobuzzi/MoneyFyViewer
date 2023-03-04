@@ -1,10 +1,10 @@
 parsing
 parse
 
-	moneyfyLines := originalString asString subStrings: Character lf.
+	moneyfyLines := originalString contents asString subStrings: Character lf.
 
 	self assert: [moneyfyLines notEmpty] onErrorDisplay: 'Empty File'.
 	 
-	attributes := (moneyfyLines first subStrings: ',') collect: [:each | MoneyfyAttribute newNamed: each asSymbol].
+	(moneyfyLines first subStrings: ',') keysAndValuesDo: [:index :each | attributes add: (MoneyfyAttribute newNamed: each asSymbol index: index)].
 
 	moneyfyLines allButFirst do: [:eachLine | self parseMonefyLine: eachLine]

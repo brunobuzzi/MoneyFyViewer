@@ -1,12 +1,15 @@
 {
 	"class" : {
-		"newFrom:" : "brunobb 03/04/2023 12:57" },
+		"newFrom:" : "brunobb 03/04/2023 12:57",
+		"newFromFile:" : "brunobb 03/04/2023 14:30",
+		"newFromStream:" : "brunobb 03/04/2023 14:27" },
 	"instance" : {
 		"assert:onErrorDisplay:" : "brunobb 03/04/2023 12:57",
+		"attributeAtIndex:ifNone:" : "brunobb 03/04/2023 14:15",
 		"attributes" : "brunobb 03/04/2023 12:57",
 		"attributes:" : "brunobb 03/04/2023 12:57",
 		"originalString" : "brunobb 03/04/2023 12:57",
 		"originalString:" : "brunobb 03/04/2023 12:57",
-		"parse" : "brunobb 03/04/2023 13:17",
-		"parseMonefyLine:" : "brunobb 03/04/2023 13:20",
-		"setPathFile:" : "brunobb 03/04/2023 12:57" } }
+		"parse" : "brunobb 03/04/2023 14:31",
+		"parseMonefyLine:" : "brunobb 03/04/2023 15:01",
+		"setReadStream:" : "brunobb 03/04/2023 14:50" } }
