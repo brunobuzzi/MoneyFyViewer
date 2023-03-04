@@ -18,14 +18,15 @@ parseMonefyLine: line
 
 		isSpecialNumber := lastIsComma and: [char == $"].
 		isSpecialNumber 
-		ifTrue: [char := stream next.
+		ifTrue: [char := stream next. 
 				valueStream nextPut: char.
 				[char == $"] whileFalse: [char := stream next.
-											valueStream nextPut: char].
-					attrIndex := attrIndex + 1.
-					stream atEnd ifFalse: [char := stream next].
-					monefyLine addValue: (MoneyfyValue newValue: valueStream contents attribute: attr).
-					valueStream := WriteStream on: String new.
+											(char == $") ifFalse: [valueStream nextPut: char].
+				].
+				attrIndex := attrIndex + 1.
+				stream atEnd ifFalse: [char := stream next].
+				monefyLine addValue: (MoneyfyValue newValue: valueStream contents attribute: attr).
+				valueStream := WriteStream on: String new.
 		].
 
 		currentIsComa ifFalse: [valueStream nextPut: char].
