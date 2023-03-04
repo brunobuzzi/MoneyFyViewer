@@ -7,4 +7,6 @@ parse
 	 
 	(moneyfyLines first subStrings: ',') keysAndValuesDo: [:index :each | attributes add: (MoneyfyAttribute newNamed: each asSymbol index: index)].
 
-	moneyfyLines allButFirst do: [:eachLine | self parseMonefyLine: eachLine]
+	moneyfyLines allButFirst do: [:eachLine | self parseMonefyLine: eachLine].
+
+	convertedValues do: [:each | each convert]

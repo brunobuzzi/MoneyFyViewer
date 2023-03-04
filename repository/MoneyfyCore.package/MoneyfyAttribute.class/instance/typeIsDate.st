@@ -1,0 +1,4 @@
+testing
+typeIsDate
+
+	^smalltalkClass == Date

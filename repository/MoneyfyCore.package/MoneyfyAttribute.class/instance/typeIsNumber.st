@@ -1,0 +1,4 @@
+testing
+typeIsNumber
+
+	^smalltalkClass == Number
