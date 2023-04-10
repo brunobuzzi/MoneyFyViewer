@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMonefyViewer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMonefyViewer",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
