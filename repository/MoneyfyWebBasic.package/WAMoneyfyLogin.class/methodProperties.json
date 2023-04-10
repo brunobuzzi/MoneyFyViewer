@@ -1,7 +1,9 @@
 {
 	"class" : {
-		 },
+		"register" : "brunobb 04/10/2023 08:13",
+		"unregister" : "brunobb 04/10/2023 08:13" },
 	"instance" : {
+		"renderEnvironmentComboOn:" : "brunobb 04/10/2023 08:22",
 		"selectorsToInclude" : "brunobb 04/10/2023 07:25",
 		"showPortalFor:" : "brunobb 04/10/2023 07:31",
 		"tryLogin" : "brunobb 04/10/2023 07:31",
