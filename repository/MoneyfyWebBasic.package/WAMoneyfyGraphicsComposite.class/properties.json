@@ -1,0 +1,21 @@
+{
+	"category" : "MoneyfyWebBasic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"formsBatchedList",
+		"selectedDefinition",
+		"showDefinitionList",
+		"distributionReport",
+		"selectedFields",
+		"isRenderingChart",
+		"chartDefinition",
+		"wizard" ],
+	"name" : "WAMoneyfyGraphicsComposite",
+	"pools" : [
+		 ],
+	"super" : "SEWAFWebObjectComposite",
+	"type" : "normal" }

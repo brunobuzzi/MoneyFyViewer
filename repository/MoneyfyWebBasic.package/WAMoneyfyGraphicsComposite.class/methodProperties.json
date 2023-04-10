@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicCreateChartDefinition" : "brunobb 04/10/2023 08:48",
+		"getScopeValue" : "brunobb 04/10/2023 08:48",
+		"initialize" : "brunobb 04/10/2023 08:48",
+		"initializeBatchedLists" : "brunobb 04/10/2023 08:48",
+		"newChartScopeFor:" : "brunobb 04/10/2023 08:48",
+		"renderContentOn:" : "brunobb 04/10/2023 08:52" } }
