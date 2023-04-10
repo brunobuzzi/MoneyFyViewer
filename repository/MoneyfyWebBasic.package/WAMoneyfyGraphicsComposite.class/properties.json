@@ -13,7 +13,10 @@
 		"selectedFields",
 		"isRenderingChart",
 		"chartDefinition",
-		"wizard" ],
+		"wizard",
+		"chartTimeScope",
+		"currentYearScope",
+		"currentMonthScope" ],
 	"name" : "WAMoneyfyGraphicsComposite",
 	"pools" : [
 		 ],

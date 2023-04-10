@@ -1,0 +1,4 @@
+other
+isChartTimeScopeByMonth
+
+	^chartTimeScope = #byMonth

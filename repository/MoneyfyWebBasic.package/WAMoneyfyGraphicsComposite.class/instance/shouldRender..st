@@ -1,0 +1,4 @@
+other
+shouldRender: moneyfyLine
+
+	^true

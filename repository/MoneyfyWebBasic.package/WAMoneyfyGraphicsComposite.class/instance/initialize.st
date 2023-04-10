@@ -8,5 +8,6 @@ initialize
 	showDefinitionList := true.
 	selectedFields := Dictionary new.
 	isRenderingChart := false.
+	self setChartTimeScopeByMonth.
 
 	self basicCreateChartDefinition.

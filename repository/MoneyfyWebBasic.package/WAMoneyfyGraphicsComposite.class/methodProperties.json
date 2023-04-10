@@ -2,9 +2,16 @@
 	"class" : {
 		 },
 	"instance" : {
-		"basicCreateChartDefinition" : "brunobb 04/10/2023 08:48",
-		"getScopeValue" : "brunobb 04/10/2023 08:48",
-		"initialize" : "brunobb 04/10/2023 08:48",
-		"initializeBatchedLists" : "brunobb 04/10/2023 08:48",
-		"newChartScopeFor:" : "brunobb 04/10/2023 08:48",
-		"renderContentOn:" : "brunobb 04/10/2023 08:52" } }
+		"basicCreateChartDefinition" : "brunobb 04/10/2023 10:28",
+		"getScopeValue" : "brunobb 04/10/2023 10:28",
+		"initialize" : "brunobb 04/10/2023 10:28",
+		"initializeBatchedLists" : "brunobb 04/10/2023 10:28",
+		"isChartTimeScopeByMonth" : "brunobb 04/10/2023 10:28",
+		"isChartTimeScopeByYear" : "brunobb 04/10/2023 10:28",
+		"newChartScopeFor:" : "brunobb 04/10/2023 10:28",
+		"renderContentOn:" : "brunobb 04/10/2023 11:01",
+		"renderMoneyfyParser:on:" : "brunobb 04/10/2023 10:28",
+		"renderMoneyfyParserByMonth:on:" : "brunobb 04/10/2023 11:16",
+		"setChartTimeScopeByMonth" : "brunobb 04/10/2023 10:29",
+		"setChartTimeScopeByYear" : "brunobb 04/10/2023 10:29",
+		"shouldRender:" : "brunobb 04/10/2023 10:33" } }

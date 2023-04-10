@@ -28,11 +28,13 @@ baseline: spec
 
 		spec package: 'MonefyCore' with: [spec requires: #('AbstractApplicationObjects' 'AbstractBIObjects' 'XPath' )].
 		spec package: 'MonefyParser' with: [spec requires: #('MonefyCore')].
+		spec package: 'MoneyfyBusinessIntelligence' with: [spec requires: #('MonefyCore' 'MonefyParser')].
 		spec package: 'MonefyParserTest' with: [spec requires: #('MonefyParser')].
 
 		spec
 			group: 'core' with: #('MonefyCore'); 
 			group: 'parser' with: #('MonefyParser');
+			group: 'bi' with: #('MoneyfyBusinessIntelligence');
 			group: 'test' with: #('MonefyCore' 'MonefyParser' 'MonefyParserTest');
-			group: 'default' with: #('test').
+			group: 'default' with: #('test' 'bi').
 		]
