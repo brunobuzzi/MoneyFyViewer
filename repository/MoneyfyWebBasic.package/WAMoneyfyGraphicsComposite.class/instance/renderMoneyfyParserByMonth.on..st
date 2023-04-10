@@ -16,7 +16,7 @@ renderMoneyfyParserByMonth: moneyfyParser on: html
 	aHighchart xAxis type: 'category'.
 	aHighchart xAxis categories: categories.
 
-	(aHighchart addSeriesOf: HighchartsSeriesPie "HighchartsSeriesColumn")
+	(aHighchart addSeriesOf: "HighchartsSeriesPie" HighchartsSeriesColumn)
 		index: 0;
 		name: 'All Expenses';
 		data: data.
