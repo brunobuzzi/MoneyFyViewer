@@ -1,0 +1,14 @@
+{
+	"category" : "MoneyfyWebBasic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WAMoneyfyPortal",
+	"pools" : [
+		 ],
+	"super" : "SEWAFApplicationPortal",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "MoneyfyWebBasic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WAMoneyfyLogin",
+	"pools" : [
+		 ],
+	"super" : "SEWAFWebLogin",
+	"type" : "normal" }

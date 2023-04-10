@@ -1,0 +1,15 @@
+{
+	"category" : "MoneyfyWebBasic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user",
+		"systemRoot" ],
+	"name" : "WAMoneyfySession",
+	"pools" : [
+		 ],
+	"super" : "WASession",
+	"type" : "normal" }
