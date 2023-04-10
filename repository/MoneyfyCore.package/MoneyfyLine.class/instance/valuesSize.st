@@ -1,0 +1,4 @@
+quering
+valuesSize
+
+	^values size

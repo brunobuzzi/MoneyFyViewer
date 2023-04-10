@@ -1,0 +1,14 @@
+{
+	"category" : "MoneyfyParserTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parser" ],
+	"name" : "MoneyfyParserTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

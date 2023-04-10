@@ -1,0 +1,14 @@
+{
+	"category" : "MoneyfyCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MonefySystemRoot",
+	"pools" : [
+		 ],
+	"super" : "AbstractSystemRoot",
+	"type" : "normal" }
