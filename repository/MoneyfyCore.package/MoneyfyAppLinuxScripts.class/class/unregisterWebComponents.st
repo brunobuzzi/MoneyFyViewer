@@ -1,0 +1,4 @@
+other
+unregisterWebComponents
+
+	WAMoneyfyLogin unregister

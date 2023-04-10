@@ -1,0 +1,4 @@
+other
+registerWebComponents
+
+	WAMoneyfyLogin register.

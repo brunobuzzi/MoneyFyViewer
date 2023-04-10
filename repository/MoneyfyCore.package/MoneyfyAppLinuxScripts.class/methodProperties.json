@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"getShortScriptPath" : "brunobb 04/10/2023 08:15",
+		"getSystemName" : "brunobb 04/10/2023 08:16",
+		"registerRestComponents" : "brunobb 04/10/2023 08:18",
+		"registerScript" : "brunobb 04/10/2023 08:17",
+		"registerWebComponents" : "brunobb 04/10/2023 08:17",
+		"unregisterRestComponents" : "brunobb 04/10/2023 08:18",
+		"unregisterScript" : "brunobb 04/10/2023 08:17",
+		"unregisterWebComponents" : "brunobb 04/10/2023 08:17" },
+	"instance" : {
+		 } }

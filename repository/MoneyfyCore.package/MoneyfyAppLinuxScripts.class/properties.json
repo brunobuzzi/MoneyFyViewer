@@ -1,0 +1,14 @@
+{
+	"category" : "MoneyfyCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MoneyfyAppLinuxScripts",
+	"pools" : [
+		 ],
+	"super" : "AppLinuxScripts",
+	"type" : "normal" }

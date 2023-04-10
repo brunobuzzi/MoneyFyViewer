@@ -1,0 +1,4 @@
+other
+registerRestComponents
+
+"	WAPersistenceOrbeonLayer register."

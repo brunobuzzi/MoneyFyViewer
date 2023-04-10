@@ -1,0 +1,4 @@
+other
+unregisterRestComponents
+
+	"WAPersistenceOrbeonLayer unregister."
