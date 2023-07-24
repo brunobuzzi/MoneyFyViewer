@@ -9,7 +9,8 @@
 		"originalString",
 		"attributes",
 		"moneyfyLines",
-		"convertedValues" ],
+		"convertedValues",
+		"systemRoot" ],
 	"name" : "MoneyfyParser",
 	"pools" : [
 		 ],

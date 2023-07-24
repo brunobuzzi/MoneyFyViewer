@@ -13,6 +13,7 @@
 		"selectedFields",
 		"isRenderingChart",
 		"chartDefinition",
+		"chartScope",
 		"wizard",
 		"chartTimeScope",
 		"currentYearScope",

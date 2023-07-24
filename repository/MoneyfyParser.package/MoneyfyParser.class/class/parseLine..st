@@ -1,4 +1,4 @@
 instance creation
 parseLine: aString
 
-	^self newFromStream: aString readStream
+	^self newFromStream: aString readStream root: (UserGlobals at: #MoneyfyRoot)

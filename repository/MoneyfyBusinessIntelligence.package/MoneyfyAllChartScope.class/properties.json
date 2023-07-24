@@ -1,0 +1,14 @@
+{
+	"category" : "MoneyfyBusinessIntelligence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MoneyfyAllChartScope",
+	"pools" : [
+		 ],
+	"super" : "MoneyfyChartScope",
+	"type" : "normal" }

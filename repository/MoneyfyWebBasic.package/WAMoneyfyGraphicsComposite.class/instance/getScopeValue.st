@@ -1,4 +1,6 @@
-other
+bi chart
 getScopeValue
 
-	^self searchValueAt: 'scope' ifAbsent: ['']
+"	^self searchValueAt: 'scope' ifAbsent: ['']"
+
+	^chartScope

@@ -1,6 +1,11 @@
-other
+bi chart
 basicCreateChartDefinition
 
-	chartDefinition := BISingleChartDefinition newFor: self session user in: selectedDefinition.
+	chartScope := 'All'.
 
-	chartDefinition scope: (self newChartScopeFor: chartDefinition).
+	chartDefinition := BISingleChartDefinition newFor: self session user in: self session systemRoot defaultParser.
+
+	chartDefinition scope: (self newChartScopeFor: chartDefinition);
+		distribution: (MoneyfyChartAllValuesDistribution newOn: chartDefinition);
+		distributionType: (BIChartQuantityDistribution newOn: chartDefinition);
+		chartType: (BIPieChart newOn: chartDefinition).
