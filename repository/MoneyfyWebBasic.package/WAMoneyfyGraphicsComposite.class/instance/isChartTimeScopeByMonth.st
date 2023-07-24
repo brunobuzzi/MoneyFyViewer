@@ -1,4 +1,0 @@
-other
-isChartTimeScopeByMonth
-
-	^chartTimeScope = #byMonth

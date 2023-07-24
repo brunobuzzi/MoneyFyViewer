@@ -1,0 +1,2 @@
+render
+renderByCategoryChartOptionsOn: html

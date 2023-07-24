@@ -1,4 +1,4 @@
-other
+initialize
 initializeBatchedLists
 
 	formsBatchedList := SewafBatchedList parentComponent: self.

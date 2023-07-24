@@ -1,4 +1,4 @@
-other
+render
 renderMonthScrollOn: html
 
 	html form class: 'float-left centered-unique-form'; with: [

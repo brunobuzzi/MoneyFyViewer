@@ -1,13 +1,11 @@
-other
+render
 renderContentOn: html
 	
-	"self session systemRoot 
-		parserNamed: 'default' 
-		do: [:moneyfyParser | self renderMoneyfyParser: moneyfyParser on: html]."
+	self renderChartOptionsOn: html.
 
-	html div with: [
+	"html div with: [
 		self renderYearScrollOn: html.
-		self renderMonthScrollOn: html.].
+		self renderMonthScrollOn: html.]."
 
 	chartDefinition distribution 
 		startDate: (Date fromString: currentMonthScope printString, '/01/', currentYearScope printString);

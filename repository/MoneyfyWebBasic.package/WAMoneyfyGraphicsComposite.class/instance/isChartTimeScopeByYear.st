@@ -1,4 +1,0 @@
-other
-isChartTimeScopeByYear
-
-	^chartTimeScope = #byYear

@@ -1,4 +1,4 @@
-other
+render
 renderButtonToDisplayChartOn: html
 
 	html form with: [

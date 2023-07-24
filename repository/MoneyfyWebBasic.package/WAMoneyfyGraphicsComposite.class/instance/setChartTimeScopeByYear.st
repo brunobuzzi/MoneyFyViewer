@@ -1,4 +1,4 @@
-other
+bi chart
 setChartTimeScopeByYear
 
 	currentYearScope := Date today year.

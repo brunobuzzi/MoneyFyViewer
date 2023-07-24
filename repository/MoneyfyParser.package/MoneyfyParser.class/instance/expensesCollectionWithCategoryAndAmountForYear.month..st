@@ -1,4 +1,4 @@
-iterating
+bi
 expensesCollectionWithCategoryAndAmountForYear: year month: monthIndex
 	| distribution rawData report startDate endDate |
 

@@ -1,4 +1,4 @@
-iterating
+bi
 expensesValuesOnYear: year month: monthIndex do: aBlock
 
 	self 
