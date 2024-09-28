@@ -1,6 +1,7 @@
 render
 renderAllChartOptionsOn: html
 
+	self basicCreateChartDefinition.
 	html div with: [
 		html form with: [
 			html fieldSet with: [

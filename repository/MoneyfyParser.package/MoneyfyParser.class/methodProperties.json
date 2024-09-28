@@ -15,6 +15,7 @@
 		"convertedValuesOnDate:do:" : "brunobb 07/24/2023 06:35",
 		"convertedValuesOnYear:month:do:" : "brunobb 07/24/2023 06:35",
 		"convertedValuesSelect:do:" : "brunobb 07/24/2023 06:35",
+		"expensesByCategoryFrom:to:" : "BrunoBB 09/28/2024 14:13",
 		"expensesCollectionWithCategoryAndAmountForYear:month:" : "brunobb 07/24/2023 08:04",
 		"expensesCollectionWithCategoryAndAmountFrom:to:" : "brunobb 07/24/2023 11:36",
 		"expensesValuesOnYear:month:do:" : "brunobb 07/24/2023 06:35",
@@ -26,6 +27,7 @@
 		"parse" : "brunobb 07/24/2023 06:35",
 		"parseMonefyLine:" : "brunobb 07/24/2023 06:35",
 		"parsedLineAt:do:" : "brunobb 07/24/2023 06:35",
+		"reportEvolutionAccumulatedExpensesFrom:to:" : "BrunoBB 09/28/2024 14:55",
 		"setReadStream:" : "brunobb 07/24/2023 06:35",
 		"setReadStream:root:" : "brunobb 07/24/2023 06:42",
 		"systemRoot" : "brunobb 07/24/2023 06:42" } }

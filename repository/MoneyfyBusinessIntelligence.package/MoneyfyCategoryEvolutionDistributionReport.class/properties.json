@@ -1,0 +1,14 @@
+{
+	"category" : "MoneyfyBusinessIntelligence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MoneyfyCategoryEvolutionDistributionReport",
+	"pools" : [
+		 ],
+	"super" : "MoneyfyDistributionReport",
+	"type" : "normal" }

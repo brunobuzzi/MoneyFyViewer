@@ -1,0 +1,4 @@
+other
+addCategoryReport: aMoneyfyCategoryEvolutionReport
+
+	categoryReports add: aMoneyfyCategoryEvolutionReport
