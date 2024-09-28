@@ -17,6 +17,9 @@ renderAllChartOptionsOn: html
 		].
 	].
 
-	html div with: [].
+	html div with: [
+		self renderStartDateOn: html.
+		self renderEndDateOn: html.
+		].
 
 	chartDefinition chartType: (self highchartChartTypeClass newOn: chartDefinition).
