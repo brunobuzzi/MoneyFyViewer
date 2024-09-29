@@ -1,12 +1,10 @@
 render
 renderByCategoryChartOptionsOn: html
 
+	self basicCreateChartDefinition.
+	html div with: [
+		self renderStartDateOn: html.
+		self renderEndDateOn: html.
+		].
 
-	chartScope := 'All'.
-
-	chartDefinition := BISingleChartDefinition newFor: self session user in: self session systemRoot defaultParser.
-
-	chartDefinition scope: (self newChartScopeFor: chartDefinition);
-		distribution: (MoneyfyChartCategoryValuesDistribution newOn: chartDefinition);
-		distributionType: (BIChartQuantityDistribution newOn: chartDefinition);
-		chartType: (BISplineChart newOn: chartDefinition).
+	"chartDefinition chartType: (self highchartChartTypeClass newOn: chartDefinition)."

@@ -1,4 +1,10 @@
 chart options
 highchartChartTypeClass
 
-	^self isChartTypePie ifTrue: [BIPieChart] ifFalse: [BIBarChart]
+	^self isChartScopeAll
+	ifTrue: [
+		self isChartTypePie 
+		ifTrue: [BIPieChart] 
+		ifFalse: [BIBarChart].
+	]
+	ifFalse: [BISplineChart].

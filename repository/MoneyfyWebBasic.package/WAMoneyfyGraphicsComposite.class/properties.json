@@ -9,7 +9,6 @@
 		"formsBatchedList",
 		"isRenderingChart",
 		"chartDefinition",
-		"chartScope",
 		"chartTimeScope",
 		"currentYearScope",
 		"currentMonthScope" ],

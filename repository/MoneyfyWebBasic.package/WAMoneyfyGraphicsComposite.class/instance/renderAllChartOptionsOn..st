@@ -23,4 +23,4 @@ renderAllChartOptionsOn: html
 		self renderEndDateOn: html.
 		].
 
-	chartDefinition chartType: (self highchartChartTypeClass newOn: chartDefinition).
+"	chartDefinition chartType: (self highchartChartTypeClass newOn: chartDefinition)."

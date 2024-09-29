@@ -3,4 +3,4 @@ getScopeValue
 
 "	^self searchValueAt: 'scope' ifAbsent: ['']"
 
-	^chartScope
+	^self componentValueAt: self chartScopeName ifAbsent: ['All']

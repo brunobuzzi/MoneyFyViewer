@@ -1,6 +1,12 @@
 {
 	"class" : {
-		 },
+		"distribution:" : "BrunoBB 09/29/2024 04:36" },
 	"instance" : {
 		"addCategoryReport:" : "BrunoBB 09/28/2024 14:40",
-		"initialize" : "BrunoBB 09/28/2024 14:39" } }
+		"canonizeXAxis" : "BrunoBB 09/29/2024 02:46",
+		"categoryReports:" : "BrunoBB 09/29/2024 04:36",
+		"createSecondaryDistributionByMonth" : "BrunoBB 09/29/2024 04:32",
+		"createSecondaryDistributionByWeek" : "BrunoBB 09/29/2024 02:50",
+		"createSecondaryDistributionByYear" : "BrunoBB 09/29/2024 02:50",
+		"getAllReports" : "BrunoBB 09/29/2024 02:36",
+		"initialize" : "BrunoBB 09/29/2024 02:38" } }
