@@ -7,3 +7,6 @@ basicCreateChartDefinition
 		distribution: (self charDefinitionDistributionClass newOn: chartDefinition);
 		distributionType: (BIChartQuantityDistribution newOn: chartDefinition);
 		chartType: (self highchartChartTypeClass newOn: chartDefinition).
+
+
+	chartDefinition dateGroupName: self dateSpan.
