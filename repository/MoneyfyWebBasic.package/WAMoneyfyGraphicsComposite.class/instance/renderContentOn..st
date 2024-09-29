@@ -12,8 +12,8 @@ renderContentOn: html
 						ifTrue: [Date fromString: (self componentValueAt: 'startMonth') printString, '/01/', (self componentValueAt: 'startYear') printString]
 						ifFalse: [Date fromString: currentMonthScope printString, '/01/', currentYearScope printString].
 
-	endDate := ((self hasComponentValueAt: 'endYear') and:[self hasComponentValueAt: 'endtMonth'])
-						ifTrue: [Date fromString: (self componentValueAt: 'endtMonth') printString, '/01/', (self componentValueAt: 'endYear') printString]
+	endDate := ((self hasComponentValueAt: 'endYear') and:[self hasComponentValueAt: 'endMonth'])
+						ifTrue: [Date fromString: (self componentValueAt: 'endMonth') printString, '/01/', (self componentValueAt: 'endYear') printString]
 						ifFalse: [Date fromString: currentMonthScope printString, '/01/', currentYearScope printString].
 
 	chartDefinition distribution 
